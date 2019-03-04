@@ -1,4 +1,4 @@
-package main
+package algo
 /**
  * Definition for a binary tree node.
 */
